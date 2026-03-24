@@ -1,0 +1,16 @@
+{
+  "name": "diataxis-skills",
+  "owner": {
+    "name": "Georges Martin",
+    "email": "jrjsmrtn@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "diataxis-skills",
+      "source": {
+        "source": "url",
+        "url": "git@github.com:jrjsmrtn/diataxis-skills.git"
+      }
+    }
+  ]
+}
