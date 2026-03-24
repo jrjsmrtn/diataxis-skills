@@ -1,0 +1,10 @@
+{
+  "name": "diataxis-skills",
+  "version": "0.1.0",
+  "description": "Skills for applying the Diataxis documentation framework — audit, create, convert, and plan documentation organized around four user needs.",
+  "author": {
+    "name": "Georges Martin",
+    "email": "jrjsmrtn@gmail.com"
+  },
+  "keywords": ["diataxis", "documentation", "technical-writing", "templates"]
+}
