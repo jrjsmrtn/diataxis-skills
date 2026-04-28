@@ -1,35 +1,26 @@
+<!-- SPDX-FileCopyrightText: 2026 Georges Martin <jrjsmrtn@gmail.com> -->
+<!-- SPDX-License-Identifier: MIT -->
+
 # Diátaxis Documentation Skills
 
 A Claude Code plugin providing skills for applying the [Diátaxis](https://diataxis.fr/) documentation framework.
 
 ## Installation
 
-### Direct Installation
+Install via the [jrjsmrtn-skills](https://github.com/jrjsmrtn/jrjsmrtn-skills) marketplace:
 
 ```
-/plugin install github:jrjsmrtn/diataxis-skills
-```
-
-### Via Project Settings
-
-Add to your project's `.claude/settings.json`:
-
-```json
-{
-  "plugins": [
-    "github:jrjsmrtn/diataxis-skills"
-  ]
-}
+/plugin install github:jrjsmrtn/jrjsmrtn-skills
 ```
 
 ## Included Skills
 
 | Skill | Description |
 |-------|-------------|
-| **diataxis-audit** | Audit existing docs against the four quadrants |
-| **diataxis-create** | Create new docs using quadrant-specific templates |
-| **diataxis-convert** | Split mixed docs into separate quadrant documents |
-| **diataxis-plan** | Plan documentation architecture for a project |
+| **diataxis-audit** | Audit existing documentation against the four quadrants — identifies mixed content, gaps, and quality issues. Start here when docs feel unclear or before a reorganization. |
+| **diataxis-create** | Create new documentation from scratch using quadrant-specific templates. Use when writing a tutorial, how-to guide, reference, or explanation document, or when filling gaps found by an audit. |
+| **diataxis-convert** | Split mixed documentation into separate, focused quadrant documents. Use after an audit identifies content that mixes tutorials, how-tos, reference, and explanation together. |
+| **diataxis-plan** | Design a documentation architecture for a project using the Diátaxis framework. Use when organizing docs for a new project, restructuring existing docs, or defining a documentation strategy. |
 
 ## Usage
 
