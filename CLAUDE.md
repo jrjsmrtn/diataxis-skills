@@ -14,7 +14,7 @@ Plugin providing four skills for applying the [Diátaxis](https://diataxis.fr/) 
 ## Development
 
 - Skills run in the *target project's* working directory, not this plugin directory
-- Test locally: `/plugin install /Users/gm/Projects/Skills/diataxis-skills`
+- Installation requires a marketplace — install via [jrjsmrtn-skills](https://github.com/jrjsmrtn/jrjsmrtn-skills)
 - Skill names are kebab-case and must match their directory names
 - All content is self-contained in SKILL.md files (no external template files)
 - The Diátaxis compass diagram is embedded in each skill for quick reference

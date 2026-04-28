@@ -1,6 +1,6 @@
 {
   "name": "diataxis-skills",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Skills for applying the Diataxis documentation framework — audit, create, convert, and plan documentation organized around four user needs.",
   "repository": "https://github.com/jrjsmrtn/diataxis-skills",
   "author": {
