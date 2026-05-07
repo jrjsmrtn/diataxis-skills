@@ -1,11 +1,13 @@
 ---
-# SPDX-FileCopyrightText: 2025 Georges Martin <jrjsmrtn@gmail.com>
-# SPDX-License-Identifier: MIT
 name: diataxis-convert
 description: >
   Convert mixed documentation into separate Diataxis quadrant documents.
   Use when documentation exists but mixes tutorials, how-tos, reference, and
   explanation content together, or after a diataxis-audit identifies mixed content.
+license: MIT
+metadata:
+  author: "Georges Martin <jrjsmrtn@gmail.com>"
+  version: "0.1.2"
 ---
 
 # Diataxis Documentation Converter

@@ -1,11 +1,13 @@
 ---
-# SPDX-FileCopyrightText: 2025 Georges Martin <jrjsmrtn@gmail.com>
-# SPDX-License-Identifier: MIT
 name: diataxis-plan
 description: >
   Plan documentation architecture for a project using the Diataxis framework.
   Use when organizing documentation for a new project, restructuring existing
   documentation, or designing a documentation strategy.
+license: MIT
+metadata:
+  author: "Georges Martin <jrjsmrtn@gmail.com>"
+  version: "0.1.2"
 ---
 
 # Diataxis Documentation Planner
