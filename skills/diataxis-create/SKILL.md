@@ -1,11 +1,13 @@
 ---
-# SPDX-FileCopyrightText: 2025 Georges Martin <jrjsmrtn@gmail.com>
-# SPDX-License-Identifier: MIT
 name: diataxis-create
 description: >
   Create new documentation following the Diataxis framework. Use when writing
   documentation from scratch, when a user requests a tutorial, how-to guide,
   reference, or explanation document, or when filling documentation gaps.
+license: MIT
+metadata:
+  author: "Georges Martin <jrjsmrtn@gmail.com>"
+  version: "0.1.2"
 ---
 
 # Diataxis Documentation Creator
