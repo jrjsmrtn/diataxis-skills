@@ -4,10 +4,10 @@ description: >
   Audit existing documentation against the Diataxis framework's four quadrants.
   Use when reviewing documentation that feels unclear, when assessing documentation
   quality, or when preparing for a documentation reorganization.
-license: MIT
 metadata:
   author: "Georges Martin <jrjsmrtn@gmail.com>"
-  version: "0.1.2"
+  version: "0.1.3"
+license: MIT
 ---
 
 # Diataxis Documentation Audit

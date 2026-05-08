@@ -4,10 +4,10 @@ description: >
   Convert mixed documentation into separate Diataxis quadrant documents.
   Use when documentation exists but mixes tutorials, how-tos, reference, and
   explanation content together, or after a diataxis-audit identifies mixed content.
-license: MIT
 metadata:
   author: "Georges Martin <jrjsmrtn@gmail.com>"
-  version: "0.1.2"
+  version: "0.1.3"
+license: MIT
 ---
 
 # Diataxis Documentation Converter

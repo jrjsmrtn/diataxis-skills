@@ -4,10 +4,10 @@ description: >
   Create new documentation following the Diataxis framework. Use when writing
   documentation from scratch, when a user requests a tutorial, how-to guide,
   reference, or explanation document, or when filling documentation gaps.
-license: MIT
 metadata:
   author: "Georges Martin <jrjsmrtn@gmail.com>"
-  version: "0.1.2"
+  version: "0.1.3"
+license: MIT
 ---
 
 # Diataxis Documentation Creator
