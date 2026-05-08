@@ -4,10 +4,10 @@ description: >
   Plan documentation architecture for a project using the Diataxis framework.
   Use when organizing documentation for a new project, restructuring existing
   documentation, or designing a documentation strategy.
-license: MIT
 metadata:
   author: "Georges Martin <jrjsmrtn@gmail.com>"
-  version: "0.1.2"
+  version: "0.1.3"
+license: MIT
 ---
 
 # Diataxis Documentation Planner
