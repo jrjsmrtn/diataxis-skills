@@ -1,20 +1,20 @@
 ---
 name: diataxis-create
 description: >
-  Create new documentation following the Diataxis framework. Use when writing
+  Create new documentation following the Diátaxis framework. Use when writing
   documentation from scratch, when a user requests a tutorial, how-to guide,
   reference, or explanation document, or when filling documentation gaps.
 metadata:
   author: "Georges Martin <jrjsmrtn@gmail.com>"
-  version: "0.1.3"
+  version: "0.1.4"
 license: MIT
 ---
 
-# Diataxis Documentation Creator
+# Diátaxis Documentation Creator
 
-Create new documentation in the correct [Diataxis](https://diataxis.fr/) quadrant using structured templates.
+Create new documentation in the correct [Diátaxis](https://diataxis.fr/) quadrant using structured templates.
 
-## Diataxis Compass
+## Diátaxis Compass
 
 ```
            Practical           Theoretical

@@ -1,20 +1,20 @@
 ---
 name: diataxis-plan
 description: >
-  Plan documentation architecture for a project using the Diataxis framework.
+  Plan documentation architecture for a project using the Diátaxis framework.
   Use when organizing documentation for a new project, restructuring existing
   documentation, or designing a documentation strategy.
 metadata:
   author: "Georges Martin <jrjsmrtn@gmail.com>"
-  version: "0.1.3"
+  version: "0.1.4"
 license: MIT
 ---
 
-# Diataxis Documentation Planner
+# Diátaxis Documentation Planner
 
-Design a documentation architecture for a project organized around the [Diataxis](https://diataxis.fr/) framework's four quadrants.
+Design a documentation architecture for a project organized around the [Diátaxis](https://diataxis.fr/) framework's four quadrants.
 
-## Diataxis Compass
+## Diátaxis Compass
 
 ```
            Practical           Theoretical
@@ -30,7 +30,7 @@ Work    |   HOW-TO       |   REFERENCE      |
 ## When to Use
 
 - Starting documentation for a new project
-- Restructuring existing documentation into Diataxis quadrants
+- Restructuring existing documentation into Diátaxis quadrants
 - Planning a documentation strategy or roadmap
 - Deciding what documentation to write first
 

@@ -1,20 +1,20 @@
 ---
 name: diataxis-convert
 description: >
-  Convert mixed documentation into separate Diataxis quadrant documents.
+  Convert mixed documentation into separate Diátaxis quadrant documents.
   Use when documentation exists but mixes tutorials, how-tos, reference, and
   explanation content together, or after a diataxis-audit identifies mixed content.
 metadata:
   author: "Georges Martin <jrjsmrtn@gmail.com>"
-  version: "0.1.3"
+  version: "0.1.4"
 license: MIT
 ---
 
-# Diataxis Documentation Converter
+# Diátaxis Documentation Converter
 
-Split mixed documentation into separate, focused documents — one per [Diataxis](https://diataxis.fr/) quadrant.
+Split mixed documentation into separate, focused documents — one per [Diátaxis](https://diataxis.fr/) quadrant.
 
-## Diataxis Compass
+## Diátaxis Compass
 
 ```
            Practical           Theoretical

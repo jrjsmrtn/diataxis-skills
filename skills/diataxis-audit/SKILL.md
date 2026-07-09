@@ -1,20 +1,20 @@
 ---
 name: diataxis-audit
 description: >
-  Audit existing documentation against the Diataxis framework's four quadrants.
+  Audit existing documentation against the Diátaxis framework's four quadrants.
   Use when reviewing documentation that feels unclear, when assessing documentation
   quality, or when preparing for a documentation reorganization.
 metadata:
   author: "Georges Martin <jrjsmrtn@gmail.com>"
-  version: "0.1.3"
+  version: "0.1.4"
 license: MIT
 ---
 
-# Diataxis Documentation Audit
+# Diátaxis Documentation Audit
 
-Audit existing documentation against the [Diataxis](https://diataxis.fr/) framework to identify mixed quadrants, gaps, and quality issues.
+Audit existing documentation against the [Diátaxis](https://diataxis.fr/) framework to identify mixed quadrants, gaps, and quality issues.
 
-## Diataxis Compass
+## Diátaxis Compass
 
 ```
            Practical           Theoretical
@@ -140,7 +140,7 @@ Generate an audit report containing:
 ## Report Format
 
 ```markdown
-# Diataxis Audit Report
+# Diátaxis Audit Report
 
 ## Summary
 
