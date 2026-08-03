@@ -1,11 +1,16 @@
 {
   "name": "diataxis-skills",
-  "version": "0.1.4",
-  "description": "Skills for applying the Diátaxis documentation framework — audit, create, convert, and plan documentation organized around four user needs.",
+  "version": "0.1.5",
+  "description": "Skills for applying the Di\u00e1taxis documentation framework \u2014 audit, create, convert, and plan documentation organized around four user needs.",
   "repository": "https://github.com/jrjsmrtn/diataxis-skills",
   "author": {
     "name": "Georges Martin",
     "email": "jrjsmrtn@gmail.com"
   },
-  "keywords": ["diataxis", "documentation", "technical-writing", "templates"]
+  "keywords": [
+    "diataxis",
+    "documentation",
+    "technical-writing",
+    "templates"
+  ]
 }

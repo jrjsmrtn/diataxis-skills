@@ -6,7 +6,7 @@ description: >
   documentation, or designing a documentation strategy.
 metadata:
   author: "Georges Martin <jrjsmrtn@gmail.com>"
-  version: "0.1.4"
+  version: "0.1.5"
 license: MIT
 ---
 

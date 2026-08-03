@@ -6,7 +6,7 @@ description: >
   reference, or explanation document, or when filling documentation gaps.
 metadata:
   author: "Georges Martin <jrjsmrtn@gmail.com>"
-  version: "0.1.4"
+  version: "0.1.5"
 license: MIT
 ---
 

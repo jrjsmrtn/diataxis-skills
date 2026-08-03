@@ -6,7 +6,7 @@ description: >
   quality, or when preparing for a documentation reorganization.
 metadata:
   author: "Georges Martin <jrjsmrtn@gmail.com>"
-  version: "0.1.4"
+  version: "0.1.5"
 license: MIT
 ---
 
